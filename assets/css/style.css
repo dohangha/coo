@@ -395,7 +395,7 @@ h6 {
   flex-direction: column;
   text-align: center;
   position: relative;
-  height: 72vh;
+  height: 75vh;
   padding-top: 80px;
 }
 
@@ -462,11 +462,11 @@ h6 {
 
 @media (max-width: 768px) {
   #hero .carousel-container {
-    height: 92vh;
+    height: 90vh;
   }
 
   #hero h2 {
-    font-size: 25px;
+    font-size: 26px;
   }
 }
 
